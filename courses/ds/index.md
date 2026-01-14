@@ -1,5 +1,5 @@
 ---
-title: "data structure資料結構"
+title: "data structure 資料結構"
 description: "xxxx"
 theme: default
 ---
