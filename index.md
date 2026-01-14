@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Courses
+title: courses
 nav_order: 2
 ---
 
